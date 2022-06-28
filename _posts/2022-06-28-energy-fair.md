@@ -4,6 +4,7 @@ title: Energy Fair!
 date: 2022-06-28T16:12:09.888Z
 image: ../uploads/img-4-.jpg
 title_color: "#ffffff"
+caption: Come see us at the energy fair!
 comments: false
 ---
 ## Have you made your Energy Fair plans yet?!
